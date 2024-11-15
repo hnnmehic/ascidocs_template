@@ -1,0 +1,33 @@
+= Übung: IPC mit Pipes
+
+
+
+
+== Aufgabe 1: Anonyme versus benannte Pipes
+Recherchieren Sie im Internet den Unterschied zwischen "anonymen" und "benannten" (named)
+Pipes und erstellen Sie eine kurze Zusammenfassung mit Beispielen im Protokoll.
+
+== Lösung
+
+=== Anonyme Pipes
+- Zweck: Datenübertragung zwischen verwandten Prozessen (z.B. Eltern-Kind).
+- Temporär: Existieren nur im Arbeitsspeicher und verschwinden nach Prozessende.
+- Richtung: Unidirektional – Daten fließen nur in eine Richtung.
+- Beispiel: Elternprozess sendet Daten an einen Kindprozess.
+
+=== Benannte Pipes (FIFOs)
+- Zweck: Kommunikation zwischen beliebigen Prozessen, auch wenn sie nicht verwandt sind.
+- Persistent: Existieren als Datei im Dateisystem und können wiederverwendet werden.
+- Richtung: Können in beide Richtungen benutzt werden (theoretisch bidirektional).
+- Beispiel: Ein Prozess schreibt in eine Datei, ein anderer liest daraus.
+
+== Aufgabe 2: Verwendung von Pipes
+Für diese Übung werden einige Bilddaten in einem Unterverzeichnis in Ihrem Linux-Homeverzeichnis
+benötigt:
+
+[source,terminal]
+------
+ls -R ~/images/ | grep '\.jpg$'
+ls -R ~/images/ | grep -ci '\.jpg$'
+------
+Handelt es sich hier um die Verwendung von anonymen oder benannten Pipes?

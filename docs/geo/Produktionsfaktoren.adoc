@@ -1,0 +1,44 @@
+= Produktionsfaktoren und ihre Bedeutung
+
+== Einführung
+- Wirtschaftliche Güter müssen produziert werden, bevor sie gekauft werden können.
+- Produktion erfolgt durch Einsatz von vier Produktionsfaktoren:
+1. Arbeit
+2. Kapital
+3. Wissen
+4. Natürliche Ressourcen (oftmals Boden genannt)
+
+== Produktionsfaktor: Arbeit
+- Umfasst körperliche und geistige Tätigkeiten eines Menschen in einer Unternehmung.
+- Ziel: Herstellung eines bestimmten Gutes.
+- Beispiel: Ein Automechaniker, der ein Autoteil wechselt.
+
+== Produktionsfaktor: Kapital
+- Zwei Arten von Kapital:
+- Geldkapital: Finanzielle Mittel.
+- Sachkapital: Maschinen, Immobilien, Computer.
+- Wichtig für effiziente Produktion.
+
+== Produktionsfaktor: Wissen
+- Ressource, die Unternehmen hilft, sich von der Konkurrenz abzuheben.
+- Aspekte:
+- Know-how zur Herstellung eines Gutes.
+- Ausbildung, Erfahrung, Kreativität und technisches Wissen der Mitarbeiter.
+- Beispiel: Die Schweizer Uhrenindustrie profitiert vom spezifischen Know-how.
+
+== Produktionsfaktor: Natürliche Ressourcen
+- Elemente aus der Natur: Bodenschätze, Holz, Früchte, Gemüse.
+- Beispiel: Ein Tischler nutzt Holz, um Möbel herzustellen.
+- Umfasst auch Raum bzw. Boden für Produktions- oder Dienstleistungsstandorte.
+
+== Zusammenspiel der Produktionsfaktoren
+- Alle Produktionsfaktoren sind notwendig, um ein Gut auf dem Markt anbieten zu können.
+- Beispiel einer GmbH zur Herstellung von Fruchtsäften:
+- **Natürliche Ressourcen**: Verschiedene Früchte.
+- **Kapital**: Maschinen für schnelle und kostengünstige Produktion.
+- **Wissen**: Rezepte, die die Säfte besonders lecker machen.
+- **Arbeit**: Mitarbeiter, die Früchte einkaufen, produzieren und verkaufen.
+
+== Hinweis
+- Lehrmittel unterscheiden teilweise zwischen drei oder vier Produktionsfaktoren.
+- Bezeichnungen und Definitionen können variieren.
